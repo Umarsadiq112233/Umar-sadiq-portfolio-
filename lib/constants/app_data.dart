@@ -115,7 +115,7 @@ class AppData {
       description:
           'A cross-platform study app for legal case reading, featuring real-time audio rooms, collaborative study groups, and premium subscriptions.',
       imageUrl:
-          'https://raw.githubusercontent.com/Umarsadiq112233/protifilo_assets/main/Group%201.png',
+          'https://raw.githubusercontent.com/Umarsadiq112233/Umar-sadiq-portfolio-/main/project_images/yollar.png',
       tags: ['Flutter', 'Real-time Audio', 'Subscriptions', 'Legal'],
     ),
     const Project(
@@ -123,7 +123,7 @@ class AppData {
       description:
           'An interactive student engagement platform for live campus events, featuring video creation, real-time voting, and a reward coin system.',
       imageUrl:
-          'https://raw.githubusercontent.com/Umarsadiq112233/protifilo_assets/main/yollor.jpg',
+          'https://raw.githubusercontent.com/Umarsadiq112233/Umar-sadiq-portfolio-/main/project_images/yollor.jpg',
       tags: ['Flutter', 'Real-time', 'Community', 'Engagement'],
     ),
     const Project(
@@ -131,7 +131,7 @@ class AppData {
       description:
           'A gamified productivity app where users connect, assign tasks collaboratively, and track progress through missions and leagues to stay motivated.',
       imageUrl:
-          'https://raw.githubusercontent.com/Umarsadiq112233/protifilo_assets/main/Group%202%20(1).png',
+          'https://raw.githubusercontent.com/Umarsadiq112233/Umar-sadiq-portfolio-/main/project_images/hero-me.png',
       tags: ['Flutter', 'Firebase', 'Gamification', 'Productivity'],
     ),
     const Project(
@@ -157,7 +157,7 @@ class AppData {
       description:
           'A professional mobile application designed for career development, coaching, and skill building.',
       imageUrl:
-          'https://raw.githubusercontent.com/Umarsadiq112233/protifilo_assets/main/career.PNG',
+          'https://raw.githubusercontent.com/Umarsadiq112233/Umar-sadiq-portfolio-/main/project_images/career.PNG',
       link: 'https://github.com/Umarsadiq112233/career_coaching_app',
       tags: ['Flutter', 'Dart', 'UI/UX', 'Professional'],
     ),
